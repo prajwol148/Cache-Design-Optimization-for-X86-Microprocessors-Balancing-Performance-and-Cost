@@ -1,0 +1,73 @@
+Analysis Results for Benchmarks with Configuration: ( 32kB 64kB 64kB 4 2 2 64 ) 
+
+
+**************************************************
+Benchmark: 401.bzip2
+--------------------------------------------------
+simInsts                                    500000000                       # Number of instructions simulated (Count)
+system.cpu.dcache.overallMisses::total        4733606                       # number of overall misses (Count)
+system.cpu.dcache.overallAccesses::total    304821771                       # number of overall (read+write) accesses (Count)
+system.cpu.icache.overallMisses::total            968                       # number of overall misses (Count)
+system.cpu.icache.overallAccesses::total    698138041                       # number of overall (read+write) accesses (Count)
+system.l2.overallMisses::total                4300053                       # number of overall misses (Count)
+system.l2.overallAccesses::total              4734574                       # number of overall (read+write) accesses (Count)
+**************************************************
+ 
+ 
+
+**************************************************
+Benchmark: 429.mcf
+--------------------------------------------------
+simInsts                                    500000000                       # Number of instructions simulated (Count)
+system.cpu.dcache.overallMisses::total       14706427                       # number of overall misses (Count)
+system.cpu.dcache.overallAccesses::total    293783994                       # number of overall (read+write) accesses (Count)
+system.cpu.icache.overallMisses::total            686                       # number of overall misses (Count)
+system.cpu.icache.overallAccesses::total    677320670                       # number of overall (read+write) accesses (Count)
+system.l2.overallMisses::total               12211034                       # number of overall misses (Count)
+system.l2.overallAccesses::total             14707113                       # number of overall (read+write) accesses (Count)
+**************************************************
+ 
+ 
+
+**************************************************
+Benchmark: 456.hmmer
+--------------------------------------------------
+simInsts                                    500000000                       # Number of instructions simulated (Count)
+system.cpu.dcache.overallMisses::total         496778                       # number of overall misses (Count)
+system.cpu.dcache.overallAccesses::total    256424803                       # number of overall (read+write) accesses (Count)
+system.cpu.icache.overallMisses::total           4558                       # number of overall misses (Count)
+system.cpu.icache.overallAccesses::total    695978477                       # number of overall (read+write) accesses (Count)
+system.l2.overallMisses::total                 365559                       # number of overall misses (Count)
+system.l2.overallAccesses::total               501336                       # number of overall (read+write) accesses (Count)
+**************************************************
+ 
+ 
+
+**************************************************
+Benchmark: 458.sjeng
+--------------------------------------------------
+simInsts                                    500000000                       # Number of instructions simulated (Count)
+system.cpu.dcache.overallMisses::total        8771531                       # number of overall misses (Count)
+system.cpu.dcache.overallAccesses::total    271625551                       # number of overall (read+write) accesses (Count)
+system.cpu.icache.overallMisses::total         461145                       # number of overall misses (Count)
+system.cpu.icache.overallAccesses::total    675382070                       # number of overall (read+write) accesses (Count)
+system.l2.overallMisses::total                8541369                       # number of overall misses (Count)
+system.l2.overallAccesses::total              9232676                       # number of overall (read+write) accesses (Count)
+**************************************************
+ 
+ 
+
+**************************************************
+Benchmark: 470.lbm
+--------------------------------------------------
+simInsts                                    500000000                       # Number of instructions simulated (Count)
+system.cpu.dcache.overallMisses::total        7163888                       # number of overall misses (Count)
+system.cpu.dcache.overallAccesses::total    216142450                       # number of overall (read+write) accesses (Count)
+system.cpu.icache.overallMisses::total            562                       # number of overall misses (Count)
+system.cpu.icache.overallAccesses::total    740313131                       # number of overall (read+write) accesses (Count)
+system.l2.overallMisses::total                7163964                       # number of overall misses (Count)
+system.l2.overallAccesses::total              7164450                       # number of overall (read+write) accesses (Count)
+**************************************************
+ 
+ 
+
